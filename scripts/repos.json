@@ -1,0 +1,32 @@
+{
+  "repos": [
+    "CarterPerez-dev/stripe-referral",
+    "CarterPerez-dev/Cybersecurity-Projects",
+    "CarterPerez-dev/CertGames-Core",
+    "CarterPerez-dev/kill-pr0cess.inc",
+    "CarterPerez-dev/Carters-Portfolio",
+    "CarterPerez-dev/fastapi-unified",
+    "CarterPerez-dev/vuemantics",
+    "CarterPerez-dev/AngelaMCP",
+    "CarterPerez-dev/CertGames-IOS",
+    "CarterPerez-dev/Flask-Honeypot",
+    "CarterPerez-dev/angela-cli",
+    "CarterPerez-dev/docksec",
+    "CarterPerez-dev/go-chronometer",        
+    "CarterPerez-dev/video-description-manager",
+    "CarterPerez-dev/holophyly",
+    "CarterPerez-dev/angelamos-operations",  
+    "CarterPerez-dev/fullstack-template",
+    "CarterPerez-dev/my-portfolio",
+    "CarterPerez-dev/fastapi-rc",
+    "CarterPerez-dev/pyproject-setup",
+    "CarterPerez-dev/oneIsNun_",
+    "CarterPerez-dev/red-recon",
+    "CarterPerez-dev/trash-gui",
+    "CarterPerez-dev/CodeWorm",
+    "CarterPerez-dev/angela",
+    "CarterPerez-dev/angelamos-3d",
+    "CarterPerez-dev/AngelaMosLLC"
+  ],
+  "exclude_languages": ["Markdown", "Text", "json", "yaml"]
+}
