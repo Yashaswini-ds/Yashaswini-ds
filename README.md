@@ -1,15 +1,6 @@
 <!-- ✦ Yashaswini DS — GitHub Profile README ✦ -->
 <!-- Theme: Dark Teal Girl Coder 💻✨ -->
 
-<!-- Animated Header Banner -->
-<div align="center">
-
-  <!-- Custom SVG Banner matching LinkedIn dark teal theme -->
-  <img src="./assets/header-banner.svg" alt="Yashaswini DS - Girl Coder" width="100%" />
-
-</div>
-
-<br/>
 
 <!-- Typing SVG -->
 <div align="center">
